@@ -72,7 +72,7 @@ Siga as etapas abaixo para ligar seu circuito pela primeira vez!
 ---
 
 ### Passo 2: Copiar o Circuito Pronto (Hardware)
-1. No seu computador local, abra o arquivo [diagram.json](file:///C:/GitHub/lab_intro/wokwi/00_introducao_wokwi/diagram.json) desta pasta e **copie todo o texto** (use Ctrl+A e Ctrl+C).
+1. No seu computador local, abra o arquivo [diagram.json](diagram.json) desta pasta e **copie todo o texto** (use Ctrl+A e Ctrl+C).
 2. No site do Wokwi Web, clique na aba **`diagram.json`** no painel da esquerda.
 3. Apague o texto que está lá e **cole** o conteúdo copiado (Ctrl+V).
 4. *Olhe para a tela da direita:* **O circuito do Arduino Uno conectado a um LED vermelho surgiu na tela!**
@@ -80,7 +80,7 @@ Siga as etapas abaixo para ligar seu circuito pela primeira vez!
 ---
 
 ### Passo 3: Copiar o Código de Programação (Software)
-1. No seu computador local, abra o arquivo [00_introducao_wokwi.ino](file:///C:/GitHub/lab_intro/wokwi/00_introducao_wokwi/00_introducao_wokwi.ino) e **copie todo o texto**.
+1. No seu computador local, abra o arquivo [00_introducao_wokwi.ino](00_introducao_wokwi.ino) e **copie todo o texto**.
 2. No Wokwi Web, clique na aba **`sketch.ino`** no painel da esquerda.
 3. Apague o conteúdo padrão e **cole** o código copiado.
 
@@ -90,7 +90,7 @@ Siga as etapas abaixo para ligar seu circuito pela primeira vez!
 Para poder ler estas instruções de forma integrada diretamente no simulador:
 1. No painel de arquivos da esquerda no Wokwi Web, clique no botão **New File** (ícone de papel com sinal de mais).
 2. Digite o nome exatamente como **`README.md`** e pressione Enter.
-3. No seu computador local, abra este arquivo [README.md](file:///C:/GitHub/lab_intro/wokwi/00_introducao_wokwi/README.md) e copie todo o seu texto (Ctrl+A e Ctrl+C).
+3. No seu computador local, abra este arquivo [README.md](README.md) e copie todo o seu texto (Ctrl+A e Ctrl+C).
 4. No Wokwi Web, cole o texto na aba `README.md` criada. O simulador mostrará o roteiro formatado diretamente na tela ao lado do circuito e código!
 
 ---
@@ -207,8 +207,8 @@ Desenhar circuitos fica muito mais rápido se você dominar estas técnicas:
 
 ### 4. Dicas Avançadas do Monitor Serial
 Como vimos, a comunicação serial envia bits fisicamente pelo cabo TX:
-* **Abertura Inteligente:** Por padrão, o console inferior abre sozinho apenas após o Arduino enviar a primeira linha de texto. Se quiser que ele fique sempre aberto ou inicie como um Plotter Gráfico, você pode editar a seção `"serialMonitor"` no arquivo [diagram.json](file:///C:/GitHub/lab_intro/wokwi/00_introducao_wokwi/diagram.json).
-* **Suporte a Cores:** Você pode imprimir mensagens com cores diferentes (como alertas vermelhos ou logs verdes) usando códigos ANSI especiais se habilitar o modo terminal no [diagram.json](file:///C:/GitHub/lab_intro/wokwi/00_introducao_wokwi/diagram.json).
+* **Abertura Inteligente:** Por padrão, o console inferior abre sozinho apenas após o Arduino enviar a primeira linha de texto. Se quiser que ele fique sempre aberto ou inicie como um Plotter Gráfico, você pode editar a seção `"serialMonitor"` no arquivo [diagram.json](diagram.json).
+* **Suporte a Cores:** Você pode imprimir mensagens com cores diferentes (como alertas vermelhos ou logs verdes) usando códigos ANSI especiais se habilitar o modo terminal no [diagram.json](diagram.json).
 * Para detalhes de configuração do console e envio de comandos para o Arduino, consulte: [Wokwi Serial Monitor Guide](https://docs.wokwi.com/guides/serial-monitor).
 
 ---

@@ -1,4 +1,4 @@
-# Memória do Projeto — lab_intro
+# Memória do Projeto — lab-intro
 
 Arquivo lido pelo agente Antigravity para manter contexto e regras do projeto.
 
@@ -52,4 +52,4 @@ referencias/    → material de referência
 ## 📝 TODO e Backlog
 
 As tarefas pendentes são gerenciadas via **GitHub Issues**.
-Consulte: https://github.com/professorjoaomiguel/lab_intro/issues
+Consulte: https://github.com/professorjoaomiguel/lab-intro/issues

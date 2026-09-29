@@ -7,7 +7,7 @@ Este guia orienta o desenvolvimento do segundo experimento prático de Arduino n
 ## 🚀 Ponto de Partida: Onde você está?
 Você continua como desenvolvedor na startup de mobilidade **VoltLog**. O utilitário elétrico de entregas está equipado com:
 1.  Um circuito montado no Wokwi Web contendo um display LCD 20x4, dois potenciômetros (para simular a quantidade de dias de turno e os quilômetros rodados pelo entregador) e uma chave seletora slide (para mudar a categoria de veículo).
-2.  O arquivo [aluguel_carro.ino](file:///C:/GitHub/lab_intro/wokwi/aluguel_carro/aluguel_carro.ino) — que já vem com a **Etapa 1 funcional** para você observar e depois modificar.
+2.  O arquivo [aluguel_carro.ino](aluguel_carro.ino) — que já vem com a **Etapa 1 funcional** para você observar e depois modificar.
 
 ---
 
@@ -29,10 +29,10 @@ Consulte a documentação oficial do Arduino se tiver dúvidas de sintaxe:
 
 ### 💻 Como Iniciar no Navegador:
 1. Acesse [wokwi.com/projects/new/arduino-uno](https://wokwi.com/projects/new/arduino-uno).
-2. Abra a aba **`diagram.json`** no simulador, apague o conteúdo e cole o código do arquivo local [diagram.json](file:///C:/GitHub/lab_intro/wokwi/aluguel_carro/diagram.json). *O circuito surgirá conectado!*
-3. Abra a aba **`sketch.ino`** e cole o código do arquivo local [aluguel_carro.ino](file:///C:/GitHub/lab_intro/wokwi/aluguel_carro/aluguel_carro.ino).
-4. No painel de arquivos da esquerda no Wokwi, clique em **New File**, crie o arquivo **`README.md`** e cole todo o conteúdo deste roteiro local ([README.md](file:///C:/GitHub/lab_intro/wokwi/aluguel_carro/README.md)) para ler as instruções lado a lado.
-5. Crie também o arquivo **`folha_respostas.md`** clicando em **New File** e cole as perguntas contidas no arquivo local ([folha_respostas.md](file:///C:/GitHub/lab_intro/wokwi/aluguel_carro/folha_respostas.md)) para respondê-las online.
+2. Abra a aba **`diagram.json`** no simulador, apague o conteúdo e cole o código do arquivo local [diagram.json](diagram.json). *O circuito surgirá conectado!*
+3. Abra a aba **`sketch.ino`** e cole o código do arquivo local [aluguel_carro.ino](aluguel_carro.ino).
+4. No painel de arquivos da esquerda no Wokwi, clique em **New File**, crie o arquivo **`README.md`** e cole todo o conteúdo deste roteiro local ([README.md](README.md)) para ler as instruções lado a lado.
+5. Crie também o arquivo **`folha_respostas.md`** clicando em **New File** e cole as perguntas contidas no arquivo local ([folha_respostas.md](folha_respostas.md)) para respondê-las online.
 
 ---
 

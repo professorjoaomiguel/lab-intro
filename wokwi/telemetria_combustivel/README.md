@@ -7,7 +7,7 @@ Este guia orienta o desenvolvimento do terceiro experimento prático de Arduino 
 ## 🚀 Ponto de Partida: Onde você está?
 Você é o desenvolvedor sênior na startup de mobilidade **VoltLog**. O utilitário híbrido está rodando rotas intermunicipais e você possui:
 1.  Um circuito montado no Wokwi Web contendo um display LCD 20x4, dois potenciômetros (que representam os sensores analógicos de volume de combustível no tanque e taxa de consumo instantâneo) e um LED físico vermelho de alerta.
-2.  O arquivo [telemetria_combustivel.ino](file:///C:/GitHub/lab_intro/wokwi/telemetria_combustivel/telemetria_combustivel.ino) — que já vem com a **Etapa 1 funcional** para você observar e depois modificar.
+2.  O arquivo [telemetria_combustivel.ino](telemetria_combustivel.ino) — que já vem com a **Etapa 1 funcional** para você observar e depois modificar.
 
 ---
 
@@ -29,10 +29,10 @@ Consulte a documentação oficial do Arduino se tiver dúvidas de sintaxe:
 
 ### 💻 Como Iniciar no Navegador:
 1. Acesse [wokwi.com/projects/new/arduino-uno](https://wokwi.com/projects/new/arduino-uno).
-2. Abra a aba **`diagram.json`** no simulador, apague o conteúdo e cole o código do arquivo local [diagram.json](file:///C:/GitHub/lab_intro/wokwi/telemetria_combustivel/diagram.json). *O circuito surgirá conectado!*
-3. Abra a aba **`sketch.ino`** e cole o código do arquivo local [telemetria_combustivel.ino](file:///C:/GitHub/lab_intro/wokwi/telemetria_combustivel/telemetria_combustivel.ino).
-4. No painel de arquivos da esquerda no Wokwi, clique em **New File**, crie o arquivo **`README.md`** e cole todo o conteúdo deste roteiro local ([README.md](file:///C:/GitHub/lab_intro/wokwi/telemetria_combustivel/README.md)) para ler as instruções lado a lado.
-5. Crie também o arquivo **`folha_respostas.md`** clicando em **New File** e cole as perguntas contidas no arquivo local ([folha_respostas.md](file:///C:/GitHub/lab_intro/wokwi/telemetria_combustivel/folha_respostas.md)) para respondê-las online.
+2. Abra a aba **`diagram.json`** no simulador, apague o conteúdo e cole o código do arquivo local [diagram.json](diagram.json). *O circuito surgirá conectado!*
+3. Abra a aba **`sketch.ino`** e cole o código do arquivo local [telemetria_combustivel.ino](telemetria_combustivel.ino).
+4. No painel de arquivos da esquerda no Wokwi, clique em **New File**, crie o arquivo **`README.md`** e cole todo o conteúdo deste roteiro local ([README.md](README.md)) para ler as instruções lado a lado.
+5. Crie também o arquivo **`folha_respostas.md`** clicando em **New File** e cole as perguntas contidas no arquivo local ([folha_respostas.md](folha_respostas.md)) para respondê-las online.
 
 ---
 

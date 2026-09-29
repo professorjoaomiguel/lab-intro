@@ -5,7 +5,7 @@ Este guia orienta o desenvolvimento do segundo experimento prático de Arduino n
 ---
 
 ## 🧭 Guia do Aluno: Como Iniciar
-1.  **Onde programar:** Abra o arquivo [aluguel_carro.ino](file:///C:/GitHub/lab_intro/tinkercad/aluguel_carro/aluguel_carro.ino) localizado nesta pasta. Ele é o seu template de trabalho e contém comentários marcados com `# TODO` onde você deve inserir seu código.
+1.  **Onde programar:** Abra o arquivo [aluguel_carro.ino](aluguel_carro.ino) localizado nesta pasta. Ele é o seu template de trabalho e contém comentários marcados com `# TODO` onde você deve inserir seu código.
 2.  **Onde simular:** 
     *   **Tinkercad:** Acesse sua conta no [Tinkercad](https://www.tinkercad.com/). Crie um novo circuito contendo um Arduino Uno, display LCD 16x2 e dois potenciômetros. Copie o código do arquivo `.ino` e cole-o na aba de Código (modo Texto) para testar e simular.
 
@@ -64,7 +64,7 @@ A rotina correta de controle de telas em sistemas embarcados segue os seguintes 
 ---
 
 ## 4. O Desafio (Mão na Massa)
-1.  **Ponto de Partida:** Abra o arquivo [aluguel_carro.ino](file:///C:/GitHub/lab_intro/tinkercad/aluguel_carro/aluguel_carro.ino).
+1.  **Ponto de Partida:** Abra o arquivo [aluguel_carro.ino](aluguel_carro.ino).
 2.  **Tarefa Intermediária:** Complete a lógica do cálculo no simulador. Realize a apresentação no LCD no seguinte padrão de texto (mesmo com flicker):
     ```text
     T:12d D:1000km
@@ -77,7 +77,7 @@ A rotina correta de controle de telas em sistemas embarcados segue os seguintes 
 ## 5. ✅ Checklist de Entrega
 1.  **Etapa Intermediária:** Leitura simultânea das duas faixas de dados e cálculo matemático correto exibido no LCD.
 2.  **Etapa Final:** Cálculo com visualização suave e sem flicker no display do Tinkercad.
-3.  **Reflexão Técnica:** Preenchimento da reflexão obrigatória no cabeçalho do arquivo [aluguel_carro.ino](file:///C:/GitHub/lab_intro/tinkercad/aluguel_carro/aluguel_carro.ino).
+3.  **Reflexão Técnica:** Preenchimento da reflexão obrigatória no cabeçalho do arquivo [aluguel_carro.ino](aluguel_carro.ino).
 4.  **Explicação Oral:** Explicação da fórmula de negócio e a lógica condicional composta (`||`).
 
 ---

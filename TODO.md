@@ -2,7 +2,7 @@
 
 O backlog de tarefas deste projeto é gerenciado via **GitHub Issues**.
 
-👉 https://github.com/professorjoaomiguel/lab_intro/issues
+👉 https://github.com/professorjoaomiguel/lab-intro/issues
 
 ---
 

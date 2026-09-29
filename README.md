@@ -16,17 +16,17 @@ Esta trilha utiliza o simulador online **Wokwi Web** e traz implementações mod
     *   `diagram.json`: O arquivo de configuração do circuito. Basta colar na aba `diagram.json` do Wokwi para carregar os componentes automaticamente.
     *   `[nome].ino`: O código inicial (template com marcações `# TODO`) para começar sua programação.
 *   **Projetos:**
-    0.  [Experimento 00: Primeiro Contato com o Wokwi Web (O LED do Painel)](file:///C:/GitHub/lab_intro/wokwi/00_introducao_wokwi/)
-    1.  [Experimento 01: Conversão de Temperatura com LCD e Alarme](file:///C:/GitHub/lab_intro/wokwi/conversao_temperatura/)
-    2.  [Experimento 02: Aluguel de Carro com LCD e Seleção de Categoria](file:///C:/GitHub/lab_intro/wokwi/aluguel_carro/)
-    3.  [Experimento 03: Telemetria de Combustível com Barra Gráfica (LCD 20x4)](file:///C:/GitHub/lab_intro/wokwi/telemetria_combustivel/)
+    0.  [Experimento 00: Primeiro Contato com o Wokwi Web (O LED do Painel)](wokwi/00_introducao_wokwi/)
+    1.  [Experimento 01: Conversão de Temperatura com LCD e Alarme](wokwi/conversao_temperatura/)
+    2.  [Experimento 02: Aluguel de Carro com LCD e Seleção de Categoria](wokwi/aluguel_carro/)
+    3.  [Experimento 03: Telemetria de Combustível com Barra Gráfica (LCD 20x4)](wokwi/telemetria_combustivel/)
 
 ### 🛠️ Trilha 2: Tinkercad (Clássica e Original)
 Esta trilha mantém os projetos originais criados originalmente para o **Tinkercad**, sem novas implementações, servindo para compatibilidade com o material clássico da disciplina.
 *   **Como fazer:** O aluno deve abrir o Tinkercad, montar o circuito manualmente a partir do manual de pinagem e colar o código inicial (`.ino`) na aba de código do simulador.
 *   **Projetos:**
-    1.  [Experimento 01: Conversão de Temperatura com LCD (Original)](file:///C:/GitHub/lab_intro/tinkercad/conversao_temperatura/)
-    2.  [Experimento 02: Aluguel de Carro com LCD (Original)](file:///C:/GitHub/lab_intro/tinkercad/aluguel_carro/)
+    1.  [Experimento 01: Conversão de Temperatura com LCD (Original)](tinkercad/conversao_temperatura/)
+    2.  [Experimento 02: Aluguel de Carro com LCD (Original)](tinkercad/aluguel_carro/)
 
 ---
 
@@ -43,7 +43,7 @@ Se você está realizando as atividades no **Wokwi**, siga estes 3 passos simple
 ## 📂 Estrutura do Repositório
 
 ```text
-lab_intro/
+lab-intro/
 │   README.md                   # Este guia de orientações
 │
 ├─ docs/                        # Guias práticos de suporte online

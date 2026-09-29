@@ -5,7 +5,7 @@ Este guia orienta o desenvolvimento do primeiro experimento prático de Arduino 
 ---
 
 ## 🧭 Guia do Aluno: Como Iniciar
-1.  **Onde programar:** Abra o arquivo [conversao_temperatura.ino](file:///C:/GitHub/lab_intro/tinkercad/conversao_temperatura/conversao_temperatura.ino) localizado nesta pasta. Ele é o seu template de trabalho e contém comentários marcados com `# TODO` onde você deve inserir seu código.
+1.  **Onde programar:** Abra o arquivo [conversao_temperatura.ino](conversao_temperatura.ino) localizado nesta pasta. Ele é o seu template de trabalho e contém comentários marcados com `# TODO` onde você deve inserir seu código.
 2.  **Onde simular:** 
     *   **Tinkercad:** Acesse sua conta no [Tinkercad](https://www.tinkercad.com/). Crie um novo circuito contendo um Arduino Uno e um display LCD 16x2 de acordo com a pinagem. Copie o código do arquivo `.ino` e cole-o na aba de Código (modo Texto) para testar e simular.
 
@@ -73,7 +73,7 @@ A rotina correta de controle de telas em sistemas embarcados segue os seguintes 
 ---
 
 ## 4. O Desafio (Mão na Massa)
-1.  **Ponto de Partida:** Abra o arquivo [conversao_temperatura.ino](file:///C:/GitHub/lab_intro/tinkercad/conversao_temperatura/conversao_temperatura.ino).
+1.  **Ponto de Partida:** Abra o arquivo [conversao_temperatura.ino](conversao_temperatura.ino).
 2.  **Tarefa Intermediária:** Complete o código nas seções `# TODO` para realizar as leituras analógicas e imprimir no LCD. A tela pode piscar nesta etapa.
 3.  **Tarefa Final (Desafio):** Implemente a lógica de no-flicker (redesenho dinâmico somente sob variação).
 
@@ -82,7 +82,7 @@ A rotina correta de controle de telas em sistemas embarcados segue os seguintes 
 ## 5. ✅ Checklist de Entrega
 1.  **Etapa Intermediária:** Temperatura calculada e exibida no display.
 2.  **Etapa Final:** Circuito operando no Tinkercad sem piscar a tela.
-3.  **Reflexão Técnica:** Preenchimento da reflexão obrigatória no cabeçalho do arquivo [conversao_temperatura.ino](file:///C:/GitHub/lab_intro/tinkercad/conversao_temperatura/conversao_temperatura.ino).
+3.  **Reflexão Técnica:** Preenchimento da reflexão obrigatória no cabeçalho do arquivo [conversao_temperatura.ino](conversao_temperatura.ino).
 4.  **Explicação Oral:** Capacidade de explicar a lógica matemática do mapeamento e a eliminação de flicker.
 
 ---
